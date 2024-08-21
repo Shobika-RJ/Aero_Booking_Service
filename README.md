@@ -1,9 +1,3 @@
-I'll take a look at the files you provided and then help you create a README file. Let me start by reviewing the contents of `BookTicket.java` and `Flight.java`.
-
-Based on the contents of your `BookTicket.java` and `Flight.java` files, I can draft a README file for your flight ticket booking system. Here's a basic structure:
-
----
-
 # Flight Ticket Booking System
 
 ## Overview
